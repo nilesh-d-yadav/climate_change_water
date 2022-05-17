@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+}
+.women{
+  width: 100%;
+}
+.donation{
+  text-align: justify;
+}
+.hree{
+  text-align: center;
+}
+.details{
+  text-align: center;
+}
+
+
+
+.testbutton {
+  font-family: 'comic sans ms';
+  color: #14396A !important;
+  font-size: 34px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #4CEEA2;
+  background: linear-gradient(to top, #4CEEA2, #BECFC3);
+  margin-left: 619px;
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(to top, #468CCF, #63B8EE);
+}
